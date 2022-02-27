@@ -1,2 +1,3 @@
 # 100-komutlu-bot
-100 komutlu discord.js v12 botu
+Bu Bot mons†3R Cuts#1337 Tarafından Yapılıp Paylaşılmıştır.
+Lisanslı Bir Altyapı Dosyasıdır. Paylaşılması Durumunda Gerekilenler Yapılıcaktır.
